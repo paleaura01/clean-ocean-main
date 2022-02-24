@@ -35,7 +35,7 @@ Together with your help we can create a community of environmentally driven indi
                 <img
  
                 src={IM1}
-                className="invisible object-cover rounded md:visible "
+                className="flex invisible object-cover max-w-screen-md ml-20 rounded md:visible "
                 layout=""
                 alt="alt"
                 />
