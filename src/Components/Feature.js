@@ -26,8 +26,7 @@ export default function Example() {
                     src={RM}
                     className="h-96"
                     layout="fixed"
-                    alt="alt"
-                   
+                    alt="alt"            
                     
                     />
     
