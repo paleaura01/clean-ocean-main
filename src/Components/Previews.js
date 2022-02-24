@@ -17,6 +17,7 @@ import EF3 from './FB_IMG_1645310678097.jpg';
                 src={EF2}
                 className="object-cover object-center lg:w-full lg:h-full"
                 layout="fill"
+                alt="alt"
                 />
                  
                 </div>
@@ -28,6 +29,7 @@ import EF3 from './FB_IMG_1645310678097.jpg';
                 src={EF1}
                 className="object-cover object-center lg:w-full lg:h-full"
                 layout="fill"
+                alt="alt"
                 />
                 </div>
             </div>
@@ -37,6 +39,7 @@ import EF3 from './FB_IMG_1645310678097.jpg';
                 src={EF3}
                 className="object-cover object-center lg:w-full lg:h-full"
                 layout="fill"
+                alt="alt"
                 />
                 </div>       
             </div>

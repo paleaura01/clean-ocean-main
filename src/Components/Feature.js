@@ -1,7 +1,5 @@
 import RM from './pngwing.com (2).png';
 
-
-
 export default function Example() {
   return (
 
@@ -28,6 +26,7 @@ export default function Example() {
                     src={RM}
                     className="h-96"
                     layout="fixed"
+                    alt="alt"
                    
                     
                     />

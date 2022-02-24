@@ -30,6 +30,7 @@ export default function Example() {
                             <img
                                 className="w-auto lg:h-64 sm:h-10"
                                 src={Icon1}
+                                alt="alt"
                             />
                             </a>
                       <div className="flex items-center -mr-2 md:hidden">
@@ -140,13 +141,14 @@ export default function Example() {
         <img
           className="object-cover w-full h-56 opacity-70 sm:h-72 md:h-96 lg:w-full lg:h-full"
           src={BG2}
-          alt=""
+          alt="alt"
         />
         
       </div>
   
         <img src={BG}
         className="lg:w-full lg:h-full"
+        alt="alt"
         />
 
        

@@ -15,10 +15,10 @@ export default function Example() {
         <div className="px-4 py-2 mx-auto max-w-8xl sm:px-6 lg:py-4 lg:px-12 lg:flex lg:items-center lg:justify-between">
           <h2 className="font-medium tracking-tight text-gray-900 text-md ">
             <span className="block text-lg font-bold 1xl">Donation Addresses:</span>
-            <span className="block text-sm ">BTC: xxxxxxxxxxxxxxxxxxxxx</span>
-            <span className="block text-sm ">CRO: xxxxxxxxxxxxxxxxxxxxx</span>
-            <span className="block text-sm ">XMR: xxxxxxxxxxxxxxxxxxxxx</span>
-            <span className="block text-sm ">ATOM: xxxxxxxxxxxxxxxxxxxxx</span>
+            <span className="block text-sm ">ETH: 0x689928419c12e6cf81cea0241963fec3300b470c</span>
+            <span className="block text-sm ">CRO: cro100t86ugn9nv4pkquayq0yyredg7al8fdrwe72s</span>
+            <span className="block text-sm ">BTC: bc1qgp952peqpvf6zfsy2m6ak67zgw0252g0lmr9k6</span>
+            
           </h2>
           <div className="flex gap-2 mt-8 lg:mt-0 ">
             <div className="inline-flex " >
@@ -42,6 +42,7 @@ export default function Example() {
             />
             <YouTubeIcon 
                 fontSize= "large"
+                href="https://www.youtube.com/watch?v=alsAp1WHD84&feature=emb_title"
             />
             <Icon 
                 icon={discordIcon} 

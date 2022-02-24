@@ -13,6 +13,7 @@ import IM2 from './201588236_2251508324985437_678393345566770122_n.jpg';
                 layout="fixed"
                 height="820"
                 width="600"
+                alt="alt"
                 />
                 </div>
         <div className="absolute grid items-center max-w-2xl grid-cols-1 px-4 py-24 lg:ml-24 z-5 gap-y-16 gap-x-20 sm:px-6 sm:py-32 lg:max-w-7xl lg:px-20 lg:grid-cols-2">
@@ -34,8 +35,9 @@ Together with your help we can create a community of environmentally driven indi
                 <img
  
                 src={IM1}
-                className="invisible object-cover rounded h-620 w-face md:visible "
+                className="invisible object-cover rounded md:visible "
                 layout=""
+                alt="alt"
                 />
                 </div>
 
